@@ -6,7 +6,7 @@
 旨在尽可能地协助各个成员消除从学生走向工作者的鸿沟, 打开成员视野,
 以及提供相应的项目协作空间.
 
-### A-C-C-C: Anti Cpp Cpp Club
+### `A-C-C-C`: Anti Cpp Cpp Club
 
 `反 C++ C++ 俱乐部` 是这个组织的正式名称. `C/C++ 是一门好语言`, 说的没错,
 但是我们对这门语言总有太多难以言表的思绪,
@@ -22,13 +22,13 @@ Ruby? C 实现的. JavaScript? C++ 实现的. JVM? C++ 实现的...
 
 感到崩溃? 并不需要. 掌握 C/C++ 的魔力并没有想象中的困难.
 
-### AC-C-C: AC Code Club
+### `AC-C-C`: AC Code Club
 
 嗯哼, 祝您年年有 AC, 岁岁有 AC, 当然, 更被心仪的公司 AC :)
 
 OJ 乃程序员之友, 不考虑来吹/撸一波?
 
-### ACC-C: Accumulator Club
+### `ACC-C`: Accumulator Club
 
 前缀 `a-` 的寄存器 (即 `累加器`) 几乎是 CPU 中最重要的寄存器. 积累知识,
 修炼内功, 拓宽视野, 就能少荒废一些时间啦 :)
@@ -64,9 +64,27 @@ Yes.
 
 ## 如何加入?
 
-- 发送邮件至以下地址, 指明意图即可 :)
-    + `anqurvanillapy[at]gmail.com`
+- 发送邮件至以下任一地址, 指明意图即可 :)
+    + `anqurvanillapy@gmail.com`
+    + `a122691411@gmail.com`
 
 ## 其他
 
 - 暂无截止日期
+
+---
+
+## 关于此页面
+
+### Build
+
+使用 `yarn` 或 `npm` 安装所有依赖, 并运行 `build` 脚本
+
+```js
+$ yarn # or npm install
+$ npm run build
+```
+
+### License
+
+ISC &copy; ACCC

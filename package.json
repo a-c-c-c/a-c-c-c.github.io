@@ -1,0 +1,30 @@
+{
+  "name": "a-c-c-c.github.io",
+  "version": "0.1.0",
+  "description": "Anti Cpp Cpp Club",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel index.js --presets=latest | node",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a-c-c-c/a-c-c-c.github.io.git"
+  },
+  "keywords": [
+    "github-pages"
+  ],
+  "author": "accc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a-c-c-c/a-c-c-c.github.io/issues"
+  },
+  "homepage": "https://github.com/a-c-c-c/a-c-c-c.github.io#readme",
+  "dependencies": {
+    "marked": "^0.3.6"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-preset-latest": "^6.24.1"
+  }
+}
