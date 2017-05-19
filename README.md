@@ -82,7 +82,7 @@ Yes.
 
 ```js
 $ yarn # or npm install
-$ npm run build
+$ yarn run build # or npm run build
 ```
 
 ### License
