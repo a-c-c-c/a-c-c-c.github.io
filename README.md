@@ -105,7 +105,7 @@ Yes.
 
 ### Build
 
-使用 `yarn` 或 `npm` 安装所有依赖, 并运行 `build` 脚本
+使用 `npm` 安装所有依赖, 并运行 `build` 脚本
 
 ```js
 $ npm i

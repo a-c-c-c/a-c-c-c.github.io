@@ -4,7 +4,7 @@
   "description": "Anti Cpp Cpp Club",
   "main": "index.js",
   "scripts": {
-    "build": "babel index.js --presets=latest | node",
+    "build": "babel index.js --presets=env | node",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -25,6 +25,6 @@
   },
   "devDependencies": {
     "babel-cli": "^6.24.1",
-    "babel-preset-latest": "^6.24.1"
+    "babel-preset-env": "^1.6.0"
   }
 }
