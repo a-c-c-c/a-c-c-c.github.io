@@ -86,6 +86,7 @@ Yes.
   + [pc](https://github.com/pcorange), 14自动化
   + [sdite](https://github.com/VonSdite), 15软工
   + [权叔](https://github.com/chuangshu), 15物联
+  + Amy, 15软工
 - 技术支持平台
   1. GitHub 组织仓库, 技术部成员可享受公开 Git 仓库服务
   2. GitLab (搭建中, 优先级高), 技术部成员可享受 公开/私密 Git 仓库服务
